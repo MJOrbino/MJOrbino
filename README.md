@@ -1,10 +1,13 @@
-# Hi 👋 I'm Michael John Orbino
+<h1 align="center">Hi 👋 I'm Michael John Orbino</h1>
 
-🎓Aspiring Tech Professional
+<h3 align="center">🎓Aspiring Tech Professional
 💻Interested in Data Analytics, Network, and Technology
-📌Philippines
+📌Philippines</h3>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile;Learning+Data+Analytics;Learning+Network+Security;Learning+IOT&center=true&width=500&height=50">
+</p>
 
 # 👨🏻‍💻 ABOUT ME 
 
@@ -22,15 +25,10 @@ My goal is to continuously learn and build useful technology projects.
 
 ## 🤖 SKILLS (Currently Learning and Improving)
 
-- Power BI
-- Tableau
-- Power Automate
-- Power Application
-- Python
-- MySQL
-- Network Home Labs
+Python | SQL | Power BI | Tableau | Power Automate | Network Home Labs
 
---- 
+---
+
 
 ## 📁 PROJECTS
 
