@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋 I'm Michael John Orbino
 
-<!--
-**MJOrbino/MJOrbino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓Aspiring Tech Professional
+💻Interested in Data Analytics, Network, and Technology
+📌Philippines
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨🏻‍💻 ABOUT ME 
+
+Hello! My name is ** Michael John Orbino **
+I am currently learning different technologies, and building projects to improve my skills.
+
+- Data Analytics
+- Network and Security
+- Automation
+- Artificial Intelligence
+
+My goal is to continuously learn and build useful technology projects.
+
+---
+
+## 🤖 SKILLS (Currently Learning and Improving)
+
+- Power BI
+- Tableau
+- Power Automate
+- Power Application
+- Python
+- MySQL
+- Network Home Labs
+
+--- 
+
+## 📁 PROJECTS
+
+
+
+
+---
+
+## 📱 CONTACT ME
+
+Email: ece.michaeljohnorbino@gmail.com
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
