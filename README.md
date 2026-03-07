@@ -32,7 +32,8 @@ Python | SQL | Power BI | Tableau | Power Automate | Network Home Labs
 
 ## 📁 PROJECTS
 
-
+🔷 **Automation Project**
+- Automatic Leave Request Approval System
 
 
 ---
