@@ -38,7 +38,7 @@ Python | SQL | Power BI | Tableau | Power Automate | Network Home Labs
 
 🔷 **Power BI Project**
 - Servicer Dashboard (Upload Ongoing)
-- Sales Dashboard (Upload Ongoing)
+- Sales Dashboard (https://github.com/MJOrbino/PowerBI-Sales-Dashboard)
 
 ---
 
