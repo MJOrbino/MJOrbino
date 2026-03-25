@@ -34,6 +34,7 @@ Python | SQL | Power BI | Tableau | Power Automate | Network Home Labs
 
 🔷 **Automation Project**
 - Automatic Leave Request Approval System (https://github.com/MJOrbino/Automatic-Leave-Request-System)
+- Overtime Tracker utilizing Power Apps - Ongoing
 
 
 🔷 **Power BI Project**
