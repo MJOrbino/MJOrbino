@@ -40,6 +40,7 @@ Python | SQL | Power BI | Tableau | Power Automate | Network Home Labs
 - Servicer Dashboard (https://github.com/MJOrbino/PowerBI-Servicer-Dashboard)
 - Sales Dashboard (https://github.com/MJOrbino/PowerBI-Sales-Dashboard)
 - Power BI Web Scrapping (https://github.com/MJOrbino/PowerBI-WebScrapping-COVID19-Dashboard)
+- Agent Performance Dashboard - Ongoing
 
 ---
 
